@@ -1,0 +1,22 @@
+body
+{
+   /* background-color:rgb(216, 211, 156);
+   more comments   */
+   background-image: linear-gradient(gold, black); 
+   background-image: radial-gradient(rgb(0, 195, 255),rgb(56, 145, 56));
+   margin-right: 200px;
+   width: 400px;
+}
+
+p
+{
+    background-color: rgb(97, 171, 236);
+    text-align: center;
+    font: size 50px;
+    font-style: italic;
+    font-weight: bold;
+    color:aqua;
+    text-decoration: dashed;
+    text-decoration-color: rgb(216, 16, 16);
+    
+}
