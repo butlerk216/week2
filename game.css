@@ -1,0 +1,46 @@
+/*
+declaration block:
+
+selector{
+    property: value;
+    property2: value;
+}
+*/
+
+body{
+    background-color: rgb(5, 5, 56);
+    color: whitesmoke;
+    
+}
+
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;   
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#rollingdice.gif{
+    margin-right:1000px;
+    width: 1000px; 
+}
+
+h1{
+    text-align: center;
+}
+button
+{
+    background-color: purple;
+    border-color: black;
+    border-radius: 50px;
+    border-style: dotted;
+    width: 100px;
+    height: 30px;
+    cursor: crosshair;
+}
